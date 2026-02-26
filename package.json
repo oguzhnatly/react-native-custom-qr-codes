@@ -1,6 +1,6 @@
 {
   "name": "@oguzhnatly/react-native-custom-qr-codes",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "index.js",
   "description": "Customizable QR codes for React Native with TypeScript and RTL support",
   "keywords": [
